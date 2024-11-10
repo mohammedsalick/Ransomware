@@ -1,18 +1,20 @@
 **ThreatSafe**: Ransomware Detection System
+
 ThreatSafe is a sophisticated ransomware detection and prevention system designed to safeguard your files and folders from malicious threats. It offers continuous monitoring of specified directories, identifies potential ransomware activity, and isolates harmful files to prevent system damage.
 
 **Key Features:**
-Folder Monitoring: Users can select specific folders to monitor for suspicious activities and potential ransomware threats.
-Real-Time Scan Results: The system provides immediate feedback on the status of files in monitored folders, flagging any suspicious files.
-AI-Powered File Analysis: Suspicious files are analyzed using advanced AI (Gemini AI) to determine their threat level and provide recommended actions.
-Test Suite: Includes five built-in tests to simulate ransomware behaviors (e.g., rapid file creation, high entropy files, file renames) to test the system's detection capabilities.
-Quarantine System: Suspicious files are automatically isolated in a separate quarantine directory, preventing them from causing damage or spreading.
-Real-Time Monitoring: Continuous surveillance of selected folders for immediate alerts and automatic threat detection.
+
+**Folder Monitoring**: Users can select specific folders to monitor for suspicious activities and potential ransomware threats.
+**Real-Time Scan Results**: The system provides immediate feedback on the status of files in monitored folders, flagging any suspicious files.
+**AI-Powered File Analysis**: Suspicious files are analyzed using advanced AI (Gemini AI) to determine their threat level and provide recommended actions.
+**Test Suite**: Includes five built-in tests to simulate ransomware behaviors (e.g., rapid file creation, high entropy files, file renames) to test the system's detection capabilities.
+**Quarantine System**: Suspicious files are automatically isolated in a separate quarantine directory, preventing them from causing damage or spreading.
+**Real-Time Monitoring**: Continuous surveillance of selected folders for immediate alerts and automatic threat detection.
 
 **How It Works:**
-Monitor Folders: Enter the path of the folder you want to monitor and initiate a scan.
-Scan and Analyze: View the scan results, analyze flagged files with AI, and take appropriate actions such as quarantining suspicious files.
-Run Ransomware Simulations: You can run built-in tests to simulate ransomware activity and verify the system’s detection and response capabilities.
+**Monitor Folders**: Enter the path of the folder you want to monitor and initiate a scan.
+**Scan and Analyze**: View the scan results, analyze flagged files with AI, and take appropriate actions such as quarantining suspicious files.
+**Run Ransomware Simulations**: You can run built-in tests to simulate ransomware activity and verify the system’s detection and response capabilities.
 ThreatSafe is designed to offer both proactive ransomware defense through continuous monitoring and reactive measures by isolating and analyzing suspicious files. It helps to ensure your system stays protected against evolving threats.
 
 
