@@ -18,7 +18,7 @@ test_results = []
 is_running = False
 
 # Add after Flask initialization
-GOOGLE_API_KEY = "AIzaSyAfjeROQWHEdeWI2DEpb1us6jal9f728qg"
+GOOGLE_API_KEY = "you_google_api"
 genai.configure(api_key=GOOGLE_API_KEY)
 model = GenerativeModel('gemini-1.5-pro')
 
